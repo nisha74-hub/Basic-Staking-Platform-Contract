@@ -125,3 +125,4 @@ After deployment, the contract will be verified and published on:
 2. Check the API documentation
 3. Explore integration examples
 4. Join our developer community on Discord
+<img width="1407" alt="screenshot" src="https://github.com/user-attachments/assets/1395c379-fe4b-4564-b949-ab9daf2c8e94" />
